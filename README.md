@@ -78,3 +78,10 @@
 "nginx is configured correctly". 
 
 *Приведите конфигурации настроенного Haproxy и скриншоты результата выполнения команды curl http://localhost:8080/.*
+
+ОН НЕ ПРОКСИРУЕТ ПО АДРЕСУ localhost:8088/ping, КИДАЕТ НА ДЕФОЛТНУЮ НГИНКС СТРАНИЦУ 
+
+![image](https://user-images.githubusercontent.com/106932460/219391701-1613de52-6571-41ff-95e1-418e62b39ea9.png)
+
+![image](https://user-images.githubusercontent.com/106932460/219392182-5eff2623-eca2-4012-bd94-5ea982dafcfd.png)
+
