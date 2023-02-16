@@ -29,6 +29,8 @@
 
 *Приведите скриншот systemctl status haproxy, где будет видно, что Haproxy запущен.*
 
+![image](https://user-images.githubusercontent.com/106932460/219325069-082276a9-6f52-440c-8750-a51be1aa4285.png)
+
 ---
 
 ### Задание 4
@@ -36,6 +38,8 @@
 Установите и запустите Nginx.
 
 *Приведите скриншот systemctl status nginx, где будет видно, что Nginx запущен.*
+
+![image](https://user-images.githubusercontent.com/106932460/219325244-f23ecefa-0db6-405e-a35e-f246af768ea6.png)
 
 ---
 
@@ -50,6 +54,10 @@
 "nginx is configured correctly".
 
 *Приведите конфигурации настроенного Nginx сервиса и скриншот результата выполнения команды curl http://localhost:8088/ping.*
+
+![image](https://user-images.githubusercontent.com/106932460/219329282-5582be3b-9895-4c1d-8e4f-af731452d0a6.png)
+
+![image](https://user-images.githubusercontent.com/106932460/219329356-4bf69069-5d32-43b0-b71c-6625f2849c2b.png)
 
 ---
 
