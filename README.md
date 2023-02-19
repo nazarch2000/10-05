@@ -79,7 +79,7 @@
 
 *Приведите конфигурации настроенного Haproxy и скриншоты результата выполнения команды curl http://localhost:8080/.*
 
-### ОН НЕ ПРОКСИРУЕТ ПО АДРЕСУ localhost:8088/ping, КИДАЕТ НА ДЕФОЛТНУЮ НГИНКС СТРАНИЦУ 
+![image](https://user-images.githubusercontent.com/106932460/219943560-a7eef251-cc60-4c74-9664-4a826cd8e03f.png)
 
 ![image](https://user-images.githubusercontent.com/106932460/219391701-1613de52-6571-41ff-95e1-418e62b39ea9.png)
 
